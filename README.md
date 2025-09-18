@@ -30,7 +30,7 @@ It includes **data cleaning, exploratory data analysis (EDA), forecasting, custo
 * **Data Cleaning & Preprocessing** – Handling missing values, outliers, and categorical encoding
 * **Exploratory Data Analysis (EDA)** – Trends, seasonality, correlations, and KPIs
 * **Customer Segmentation** – RFM analysis or clustering models
-* **Sales Forecasting** – Using ML or statistical models (e.g., Random Forest, ARIMA)
+* **Sales Forecasting** – Using ML (e.g., Random Forest)
 * **Store/Product Performance Analysis** – Identify top performers and laggards
 * **Visualizations & Dashboards** – Presenting insights for decision-makers
 
