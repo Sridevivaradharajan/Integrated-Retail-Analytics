@@ -28,12 +28,12 @@ It includes **data cleaning, exploratory data analysis (EDA), forecasting, custo
 
 ## Key Features
 
-✅ **Data Cleaning & Preprocessing** – Handling missing values, outliers, and categorical encoding
-✅ **Exploratory Data Analysis (EDA)** – Trends, seasonality, correlations, and KPIs
-✅ **Customer Segmentation** – RFM analysis or clustering models
-✅ **Sales Forecasting** – Using ML or statistical models (e.g., Random Forest, ARIMA)
-✅ **Store/Product Performance Analysis** – Identify top performers and laggards
-✅ **Visualizations & Dashboards** – Presenting insights for decision-makers
+* **Data Cleaning & Preprocessing** – Handling missing values, outliers, and categorical encoding
+* **Exploratory Data Analysis (EDA)** – Trends, seasonality, correlations, and KPIs
+* **Customer Segmentation** – RFM analysis or clustering models
+* **Sales Forecasting** – Using ML or statistical models (e.g., Random Forest, ARIMA)
+* **Store/Product Performance Analysis** – Identify top performers and laggards
+* **Visualizations & Dashboards** – Presenting insights for decision-makers
 
 ---
 
@@ -79,8 +79,3 @@ This project helps retail businesses:
 
 This project is licensed under the **CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0 International)** license.
 See the [LICENSE](LICENSE) file for details.
-
-
-This is now **clean, professional, and GitHub-friendly** ✅
-
-Would you like me to also **generate the `LICENSE` file** with the proper CC BY-NC 4.0 text so you can just drop it into your repo?
