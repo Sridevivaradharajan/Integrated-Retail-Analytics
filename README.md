@@ -19,10 +19,9 @@ It includes **data cleaning, exploratory data analysis (EDA), forecasting, custo
 ## Tech Stack
 
 * **Language:** Python (Pandas, NumPy)
-* **Visualization:** Matplotlib, Seaborn, Plotly
+* **Visualization:** Matplotlib
 * **Machine Learning:** Scikit-learn, Statsmodels (for forecasting)
-* **Data Handling:** SQL (if applicable), CSV/Excel
-* **Optional:** Streamlit / Power BI / Tableau for dashboards
+* **Data Handling:** CSV/Excel
 
 ---
 
