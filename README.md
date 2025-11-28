@@ -71,10 +71,3 @@ This project helps retail businesses:
 * **Improve profitability** by focusing on high-performing products
 * **Enhance customer experience** via segmentation-driven campaigns
 * **Support decision-making** with clear visual insights
-
----
-
-## License
-
-This project is licensed under the **CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0 International)** license.
-See the [LICENSE](LICENSE) file for details.
